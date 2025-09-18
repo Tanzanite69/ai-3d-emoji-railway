@@ -1,0 +1,14 @@
+{
+  "name": "ai-3d-emoji-railway",
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
